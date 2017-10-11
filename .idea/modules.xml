@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeanFactory/BeanFactory.iml" filepath="$PROJECT_DIR$/BeanFactory/BeanFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContextAware/ContextAware.iml" filepath="$PROJECT_DIR$/ContextAware/ContextAware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContextExample/ContextExample.iml" filepath="$PROJECT_DIR$/ContextExample/ContextExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonBean/SingletonBean.iml" filepath="$PROJECT_DIR$/SingletonBean/SingletonBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExamples.iml" filepath="$PROJECT_DIR$/SpringExamples.iml" />
+    </modules>
+  </component>
+</project>
